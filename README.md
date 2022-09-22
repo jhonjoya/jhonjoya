@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhonjoya
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, Git, HTML, CSS and Javascript
+- 🌱 I’m currently learning Python and R.
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me jhonjoya@gmail.com
 
