@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jhonjoya
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and R.
-- 💞️ I’m looking to collaborate on opensource projects
+- 🌱 I’m coninusly learning Python and R.
+- 💞️ I’m SQL Lover.
 - 📫 How to reach me jhonjoya@gmail.com
 
 <!---
