@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jhonjoya
-- 👀 I’m interested in Data Science
+- 👀 I’m Software Developer & passionate for Data Science
 - 🌱 I’m coninusly learning Python and R.
 - 💞️ I’m SQL Lover.
 - 📫 How to reach me jhonjoya@gmail.com
